@@ -2,10 +2,8 @@
 
 Меня зовут Татьяна, я - тестировщик ПО, занимаюсь ручным и автоматизированным тестированием.
 
-![image](https://sun9-1.userapi.com/impg/cuZFA0N0W1cjkptCsDbHEIUKKRYniwdhiuZ7Hw/gXkSC5xdvm0.jpg?size=475x507&quality=95&sign=6524ceaf753abd35f729f6adcfd99b62&type=album)
+<img src="https://sun9-1.userapi.com/impg/cuZFA0N0W1cjkptCsDbHEIUKKRYniwdhiuZ7Hw/gXkSC5xdvm0.jpg?size=475x507&quality=95&sign=6524ceaf753abd35f729f6adcfd99b62&type=album" alt="image"  width="200" height="200" style="float: left; margin-right: 10;" />
 
-
-## Обо мне
 - 🎓 Обучающаяся курсов Нетологии по программе Тестировщик ПО 
 - 💻 Опыт работы с Java
 - ⚙️ Навыки: тест-дизайн, ручное тестирование сайтов и приложений, написание автотестов на Java, оформление баг-репортов в Jira или на Github
